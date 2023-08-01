@@ -1,6 +1,10 @@
 <?php
 
-class Model_Portfolio extends Model
+namespace App\models;
+
+use App\core\Model;
+
+class Portfolio_model extends Model
 {
 	public function get_data()
 	{	
@@ -19,4 +23,3 @@ class Model_Portfolio extends Model
 		);
 	}
 }
-?>

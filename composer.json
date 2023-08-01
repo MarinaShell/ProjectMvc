@@ -1,0 +1,16 @@
+{
+    "name": "sf/php_mvc",
+    "require": {
+        "gabordemooij/redbean": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marina"
+        }
+    ]
+}

@@ -1,4 +1,7 @@
 <?php
+
+namespace App\core;
+
 class Controller
 {
 	public $model;
@@ -13,4 +16,3 @@ class Controller
 		//todo
 	}
 }
-?>

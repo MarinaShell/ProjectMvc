@@ -1,4 +1,7 @@
 <?php
+
+namespace App\core;
+
 class Model
 {
     public $string;
@@ -10,4 +13,3 @@ class Model
         //todo
     }
 }
-?>
